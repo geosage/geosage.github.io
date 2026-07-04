@@ -2,7 +2,6 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>Privacy Policy – Pétanque Pal</title>
 </head>
 <body>
   <h1>Privacy Policy</h1>
